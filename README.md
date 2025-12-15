@@ -6,7 +6,7 @@
 
   **SPA Architecture:** Content sections (Products, About, Contact) are loaded dynamically using `fetch` API without refreshing the page.
   * **Dynamic Shopping Cart:**
-      Add items to the cart with real-time badge updates[cite: 6].
+      Add items to the cart with real-time badge updates.
       Adjust quantities or remove items directly from the side drawer (Offcanvas).
       **Data Persistence:** Cart items are saved to the browser's `localStorage`, so users don't lose their selection on refresh.
 **Modern UI/UX:**
@@ -18,10 +18,10 @@
 
 ## 🛠️ Tech Stack
 
-  * **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-  * **Framework:** Bootstrap 5.3.3 (Grid, Modals, Offcanvas).
-  * **Icons:** FontAwesome & Bootstrap Icons.
-  * **Fonts:** Google Fonts (Bebas Neue & Poppins).
+  **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+  **Framework:** Bootstrap 5.3.3 (Grid, Modals, Offcanvas).
+  **Icons:** FontAwesome & Bootstrap Icons.
+  **Fonts:** Google Fonts (Bebas Neue & Poppins).
 
 ## 📂 Project Structure
 

@@ -4,11 +4,11 @@
 
 ## 🚀 Features
 
-  * [cite_start]**SPA Architecture:** Content sections (Products, About, Contact) are loaded dynamically using `fetch` API without refreshing the page[cite: 7].
+  **SPA Architecture:** Content sections (Products, About, Contact) are loaded dynamically using `fetch` API without refreshing the page.
   * **Dynamic Shopping Cart:**
-      * [cite_start]Add items to the cart with real-time badge updates[cite: 6].
-      * [cite_start]Adjust quantities or remove items directly from the side drawer (Offcanvas)[cite: 6].
-      * [cite_start]**Data Persistence:** Cart items are saved to the browser's `localStorage`, so users don't lose their selection on refresh[cite: 6].
+      Add items to the cart with real-time badge updates[cite: 6].
+      Adjust quantities or remove items directly from the side drawer (Offcanvas).
+      **Data Persistence:** Cart items are saved to the browser's `localStorage`, so users don't lose their selection on refresh.
 **Modern UI/UX:**
       Luxury design with gold accents and hover animations
       Animated marquee bar for announcements

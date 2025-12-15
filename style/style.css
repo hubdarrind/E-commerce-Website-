@@ -1,4 +1,4 @@
-/* --- MODERN LUXURY THEME VARIABLES --- */
+/* --- Theme colors --- */
 :root {
     --accent-gold: #cfa166;
     --bg-white: #ffffff;
@@ -18,7 +18,7 @@ body {
     font-weight: 500;
 }
 
-/* --- TYPOGRAPHY --- */
+
 .font-bebas {
     font-family: 'Bebas Neue', sans-serif;
     letter-spacing: 1.5px;
@@ -38,8 +38,8 @@ body {
 
 .nav-link {
     color: var(--text-main) !important;
-    font-weight: 800; /* BOLDER FONT */
-    font-size: 1.15rem; /* INCREASED SIZE */
+    font-weight: 800;
+    font-size: 1.15rem;
     letter-spacing: 0.5px;
     transition: color 0.3s ease;
 }
@@ -48,7 +48,7 @@ body {
     color: var(--accent-gold) !important;
 }
 
-/* Hover Scale Effect for Cart */
+/* Hover Scale Effect for Cart  Icon */
 .hover-scale:hover {
     transform: scale(1.1) !important;
     background-color: var(--accent-gold) !important;
@@ -224,7 +224,7 @@ body {
     100% { transform: translateX(-100%); }
 }
 
-/* --- OFFCANVAS CART --- */
+
 .offcanvas { background-color: #fff; }
 .offcanvas-header { border-bottom: 1px solid #eee; }
 
